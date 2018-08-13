@@ -1,2 +1,2 @@
 # Logistic-Regression-Model
-include Data Preprocessing, Hyper-parameter Tuning, etc
+include WOE/IV calculation,  Hyper-parameter Tuning, etc
